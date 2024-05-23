@@ -24,3 +24,8 @@ body{
    background-size: cover;
    background-repeat: no-repeat;
 }
+table, th, td {
+   border: 2px solid black;
+   color: aliceblue;
+   border-radius:  5px;
+}
