@@ -1,0 +1,23 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gill Sans','Gill Sans MT', calibri,'Trebuchet MS';
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aqua;
+    text-decoration: nome;
+    color: black
+}
+a{
+    color:brown;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    border-radius: 25px;
+    padding: 20px;
+    background-color:cadetblue;
+   margin-top: 20px;
+
+}
